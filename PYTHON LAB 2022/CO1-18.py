@@ -1,0 +1,17 @@
+dic1={
+    "Bob":24,
+    "Charlie":36,
+    "Alice":72,
+    "Eric":18,
+    "David":9,
+    }
+dic2={
+    "Manu":16,
+    "Meera":20,
+    "Karthika":24,
+    "Praveen":18,
+    "Govind":19,
+    }
+dic3=dic2.copy()
+dic3.update(dic1)
+print(dic3)
