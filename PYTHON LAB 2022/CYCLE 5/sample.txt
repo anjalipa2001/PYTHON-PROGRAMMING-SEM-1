@@ -1,0 +1,6 @@
+Python is a high level language
+1.Finance and trading.
+2.Scientific and mathematical computing.
+3.Web development.
+4.System automation and administration.
+5.Computer graphics.
