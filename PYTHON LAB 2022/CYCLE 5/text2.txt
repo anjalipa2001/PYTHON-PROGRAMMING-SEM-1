@@ -1,5 +1,0 @@
-1.Easy To Learn and Readable Language
-3.Dynamically Typed Language
-5.Large Standard Library
-7.Object Oriented Programming Language
-9.Python is extremely easy to learn
